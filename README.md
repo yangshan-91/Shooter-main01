@@ -1,1 +1,1 @@
-# Shooter
+基于Python开发的平台射击游戏
